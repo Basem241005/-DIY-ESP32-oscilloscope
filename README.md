@@ -41,3 +41,12 @@ the filterAlpha variable controls how strong the filter is if the signal is to l
 
 I used Serial Studio for the plotting u coul learn how to use it or just use the plotter file i provided download serial studio and open the provided (plot) file 
 
+##  Team Members
+- Ahmed Mohamed El-Moghazy
+- Ahmed Mohamed Sarhan
+- Amin Ramadan El-Sayed
+- Ayman Mostafa Barakat
+- Basem Hamdan Mousa
+- Taha Hamed El-Eraky
+- Mohamed Abdelnaby Hamed
+- Mohamed Attia Omar
